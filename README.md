@@ -22,8 +22,10 @@ To test this mobile application on a computer, make sure to do the following bef
 3) To gain access to the firebase database, email me at mailto:singharash09@gmail.com with the subject "Quill database access request". I will answer the request as soon as possible.
 
 ## Usage
-![The welcome screen](./images/quill-welcome-resize.png) ![The register screen](./images/quill-register-resize.png)
-![The sign-in screen](./images/quill-sigin-resize.png) ![The messaging screen 1](./images/quill-message1-resize.png)
+![The welcome screen](./images/quill-welcome-resize.png)
+![The register screen](./images/quill-register-resize.png)
+![The sign-in screen](./images/quill-sigin-resize.png) 
+![The messaging screen 1](./images/quill-message1-resize.png)
 ![The messaging screen 2](./images/quill-message2-resize.png)
 
 
